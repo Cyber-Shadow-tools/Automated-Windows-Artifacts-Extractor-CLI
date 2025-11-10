@@ -18,6 +18,7 @@ WindowsArtifactExtractor/
 ├── utils.py           # Utility functions (if needed for additional functionality)
 ├── README.md          # This file
 ├── requirements.txt   # Python dependencies
+├── Paper.txt          # Paper Link
 ├── logs/
 │   └── run.log        # Log file for runtime messages/errors
 └── output/
